@@ -3,11 +3,11 @@
   <title>zjhcjhzjhの博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://hexo.zjhcjhzjh.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://hexo.zjhcjhzjh.top/"/>
   <updated>2023-03-04T14:28:30.361Z</updated>
-  <id>http://example.com/</id>
+  <id>https://hexo.zjhcjhzjh.top/</id>
   
   <author>
     <name>zjhcjhzjh</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/03/05/hello-world/"/>
-    <id>http://example.com/2023/03/05/hello-world/</id>
+    <link href="https://hexo.zjhcjhzjh.top/2023/03/05/hello-world/"/>
+    <id>https://hexo.zjhcjhzjh.top/2023/03/05/hello-world/</id>
     <published>2023-03-05T03:08:43.569Z</published>
     <updated>2023-03-04T14:28:30.361Z</updated>
     
